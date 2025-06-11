@@ -1,0 +1,112 @@
+CV & LinkedIn Checklist 
+
+CV Checklist 
+Personal details - Name, Email, Contact, LinkedIn, GitHub profile 
+Summary - Overview of career 
+Skills - 5 top skills with quantifiable examples where applicable
+Work Experience - Detailed descriptions <Most recent downwards>
+Achievements - Quantifiable achievements
+Education - Most recent  upwards
+References - Feel free to include or add a line “Available upon request”
+Additional information - Hobbies, passions, volunteer work
+Ensure the document has a good structure and flow. 
+
+You can find a link here for the CV Guide, CV Template, Resume Template 
+
+
+LinkedIn Checklist 
+Professional profile photo 
+Clear background photo, preferably related to your field of expertise
+Detailed headline with your key skills
+Specific and detailed summary/ bio
+Featured Work - linked to company/ business pages 
+Updated role responsibilities & achievements
+Education linked to the respective institutions 
+Licences & Certifications linked to the respective institutions 
+Endorsements and recommendations
+Optimize with your LinkedIn URL
+Tailoring your Resume
+Step 1: Identify your areas of focus for applications.
+What types of opportunities will you be primarily applying for? 
+What types of opportunities will you be primarily applying for? 
+Try to narrow down your focus to 2-3 areas within Software Engineering, such as front-end development, or iOS engineering.
+
+
+
+Step 2: Research job postings.
+Find a variety of job postings (current or archived), including full-time jobs from multiple industries and company sizes. Once you have at least 5, combine the information you’ve found into 3 lists:
+Job Posting 
+Required Skills
+Recommended Skills
+Non-Technical Skills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step 3: List out your skills.
+Color code your skills into these 3 categories:
+Courses, certifications, and online classes
+Class projects, hackathons, personal projects
+Work experiences and internships
+Step 4: Fill out a Venn Diagram to compare your skills including the overlap
+
+
+
+Step 5: Fill out the Overlap of your Venn Diagram.
+For anything listed in both the left and the right sides, list it in the middle.
+
+Your Skills 
+The Overlap 
+The Job 
+
+
+
+
+
+
+
+
+
+
+
+Step 6: Intentionally focus your resume
+Your resume should be crafted to focus on the center of your Venn Diagram; the priority should be on showcasing the skills that are most relevant to your desired job.
+
+Overlapping Skills 
+Experience and skills you have
+Data Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
